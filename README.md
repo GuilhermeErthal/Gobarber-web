@@ -46,6 +46,6 @@ Desenvolvemos a aplicação do zero, com backend([NodeJS](https://github.com/Gui
 
 👤 **Guilherme Gonçalves**
 
-- LinkedIn: [@larabeatrizms](https://www.linkedin.com/in/guilherme-gon%C3%A7alves-b8086850/)
-- Github: [@larabeatrizms](https://github.com/GuilhermeErthal)
-- Twitter: [@LaraBeatrizMS](https://twitter.com/Guilher97310471)
+- LinkedIn: [@GuilhermeGoncalves](https://www.linkedin.com/in/guilherme-gon%C3%A7alves-b8086850/)
+- Github: [@GuilhermeGoncalves](https://github.com/GuilhermeErthal)
+- Twitter: [@GuilhermeGoncalves](https://twitter.com/Guilher97310471)
